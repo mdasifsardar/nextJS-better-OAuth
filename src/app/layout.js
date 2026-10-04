@@ -27,7 +27,8 @@ export default function RootLayout({ children }) {
       <body className="min-h-full flex flex-col">
         <Toast.Provider />
         <Navbar></Navbar>
-        <main>{children}</main>
+        <main>{children}</main>git remote remove origin git remote add origin
+        https://github.com/mdasifsardar/nextJS-better-OAuth.git
       </body>
     </html>
   );
